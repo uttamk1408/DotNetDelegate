@@ -1,0 +1,15 @@
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.csproj.AssemblyReference.cache
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.AssemblyInfoInputs.cache
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.AssemblyInfo.cs
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.csproj.CoreCompileInputs.cache
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/bin/Debug/net6.0/delegate
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/bin/Debug/net6.0/delegate.deps.json
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/bin/Debug/net6.0/delegate.runtimeconfig.json
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/bin/Debug/net6.0/delegate.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/bin/Debug/net6.0/ref/delegate.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/bin/Debug/net6.0/delegate.pdb
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/ref/delegate.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.pdb
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/delegate/obj/Debug/net6.0/delegate.genruntimeconfig.cache
