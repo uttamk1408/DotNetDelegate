@@ -1,0 +1,15 @@
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/bin/Debug/net6.0/genericdelegates
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/bin/Debug/net6.0/genericdelegates.deps.json
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/bin/Debug/net6.0/genericdelegates.runtimeconfig.json
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/bin/Debug/net6.0/genericdelegates.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/bin/Debug/net6.0/ref/genericdelegates.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/bin/Debug/net6.0/genericdelegates.pdb
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.csproj.AssemblyReference.cache
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.AssemblyInfoInputs.cache
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.AssemblyInfo.cs
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.csproj.CoreCompileInputs.cache
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/ref/genericdelegates.dll
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.pdb
+/Users/uttamkumar/Desktop/WorkRepository/Delegate/genericdelegates/obj/Debug/net6.0/genericdelegates.genruntimeconfig.cache
